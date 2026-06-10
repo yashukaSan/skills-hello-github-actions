@@ -1,0 +1,6 @@
+name: Post welcome commit
+on: 
+  pull_request:
+    types: [opened]
+permissiona: 
+  pull-requests: write
